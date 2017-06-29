@@ -1,0 +1,4 @@
+{
+    "status":"success",
+    "message":"This is a default JSON file, so if you were expecting some other JSON probably you didn't add it to the project properly (did you miss add to the copyBundles?) or it's not present"
+}
